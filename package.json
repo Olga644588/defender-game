@@ -1,7 +1,7 @@
 {
   "name": "defender-game",
   "version": "1.0.0",
-  "description": "\"Browser based game\"",
+  "description": "Browser based game",
   "keywords": [
     "game"
   ],
@@ -15,9 +15,9 @@
   },
   "license": "ISC",
   "author": "Оля",
-  "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "\"Browser based game\""
+    "start": "live-server",
+    "test": "echo 'No tests yet'"
   }
 }
