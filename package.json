@@ -1,0 +1,23 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "keywords": [
+    "game"
+  ],
+  "homepage": "https://github.com/Olga644588/defender-game#readme",
+  "bugs": {
+    "url": "https://github.com/Olga644588/defender-game/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olga644588/defender-game.git"
+  },
+  "license": "ISC",
+  "author": "Оля",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"Browser based game\""
+  }
+}
